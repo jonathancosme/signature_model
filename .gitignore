@@ -1,5 +1,6 @@
-model_weights/i9_2016/1/detect_fields/best.pt
-model_weights/i9_2016/2/detect_fields/best.pt
-model_weights/i9_2016/1/detect_form/best.pt
-model_weights/i9_2016/2/detect_form/best.pt
+**/**/*.pt
+runs/**/**/*
 scratch.ipynb
+
+# exceptions 
+!**/**/.gitkeep
