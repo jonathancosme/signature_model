@@ -1,0 +1,5 @@
+names:
+  0: form
+path: ../i9/i9_from_crop
+train: images/train
+val: images/val
